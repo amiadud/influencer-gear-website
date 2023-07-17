@@ -1,0 +1,40 @@
+
+@media screen and (max-width:576px) {
+    .banner-main-container{
+        flex-direction: column-reverse;
+        gap: 20px;
+    }
+    .nav-main-container{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .social-media-container{
+        flex-direction: column;
+        width:auto;
+        height:auto;
+    }
+
+    .nav-main-container{
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .popular-main-container{
+        grid-template-columns: none;
+    }
+    .feature-main-container{
+        flex-direction: column;
+        padding: 20px;
+    }
+    .menus{
+        flex-direction: column;
+    }
+    .banner-content{
+        padding: 100px;
+        width:auto;
+    }
+    .banner-image{
+        width: 100%;
+    }
+
+}
