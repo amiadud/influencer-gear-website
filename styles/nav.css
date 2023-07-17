@@ -29,12 +29,3 @@
     font-size: 16px;
 }
 
-@media screen and (max-width:576px) {
-    .nav-main-container{
-        flex-direction: column;
-        gap: 20px;
-    }
-    .menus{
-        flex-direction: column;
-    }
-}
