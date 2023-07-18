@@ -38,7 +38,7 @@
 }
 .banner-image{
     width: 500px;
-    background-image: url('/images/Circle\ design.svg');
+    background-image: url('../images/Circle\ design.svg');
     background-repeat: no-repeat;
 }
 .camera-img{
